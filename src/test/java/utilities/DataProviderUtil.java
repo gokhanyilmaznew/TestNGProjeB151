@@ -1,4 +1,4 @@
-package techproed.utilities;
+package utilities;
 
 import org.testng.annotations.DataProvider;
 
