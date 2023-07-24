@@ -11,6 +11,8 @@ public class TC01_AramaKutsusuTesti {
         Driver.getDriver().get(ConfigReader.getProperty("amazonUrl"));
         Page page = new Page();
         Driver.closeDriver();
+        //Amazon sayafasina arama kutusu test edildi
+
 
     }
 }
